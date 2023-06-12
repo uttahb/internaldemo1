@@ -15,7 +15,11 @@
   "repoType": "mono",
   "dependencies": {
     "internaldemo_pack1": {
-      "directory": "internaldemo_pack1"
+      "directory": "internaldemo_pack1",
+      "versionId": "Uq0lgA92aArGhKX78NgRZ",
+      "version": "0.0.1"
     }
-  }
+  },
+  "version": "0.0.1",
+  "versionId": "KrAk0P4T0A5G6_u0a3Mw0"
 }
