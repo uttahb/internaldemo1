@@ -17,10 +17,16 @@
   "isPublic": true,
   "dependencies": {
     "internaldemo_pack1_fn": {
-      "directory": "internaldemo_pack1_fn"
+      "directory": "internaldemo_pack1_fn",
+      "versionId": "L7nyUQx1yFNjnaCgrLcnR",
+      "version": "0.0.1"
     },
     "internaldemo_pack_pack": {
-      "directory": "internaldemo_pack_pack"
+      "directory": "internaldemo_pack_pack",
+      "versionId": "q18Nc-nJyoVPi1EG4ua5Y",
+      "version": "0.0.1"
     }
-  }
+  },
+  "version": "0.0.1",
+  "versionId": "Uq0lgA92aArGhKX78NgRZ"
 }
