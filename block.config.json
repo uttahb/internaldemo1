@@ -1,0 +1,21 @@
+{
+  "name": "internaldemo1",
+  "type": "package",
+  "blockId": "iHv3pqxRSf5XJCmBJrTLd",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_internaldemo1"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "internaldemo_pack1": {
+      "directory": "internaldemo_pack1"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "blockId": "iuPFMwy9-tI_TyEli1bhc",
+  "name": "internaldemo_pack1_fn",
+  "type": "function",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_internaldemo_pack1_fn"
+  },
+  "parentBlockIDs": [
+    "iHv3pqxRSf5XJCmBJrTLd",
+    "Z580-a1Kn7e3UxHsyLNc4"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}

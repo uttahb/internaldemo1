@@ -1,0 +1,24 @@
+{
+  "blockId": "UOrwAZ1EvQs4A-KWb-joY",
+  "name": "internaldemo_pack_pack",
+  "type": "package",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_internaldemo_pack_pack"
+  },
+  "parentBlockIDs": [
+    "iHv3pqxRSf5XJCmBJrTLd",
+    "Z580-a1Kn7e3UxHsyLNc4"
+  ],
+  "repoType": "mono",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "dependencies": {
+    "internaldemo_pack_pakc_fn": {
+      "directory": "internaldemo_pack_pakc_fn"
+    }
+  }
+}
