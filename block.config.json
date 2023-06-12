@@ -1,0 +1,21 @@
+{
+  "name": "internaldemo1",
+  "type": "package",
+  "blockId": "iHv3pqxRSf5XJCmBJrTLd",
+  "source": {
+    "https": "https://github.com/uttahb/internaldemo1.git",
+    "ssh": "git@github.com:uttahb/internaldemo1.git",
+    "branch": "block_internaldemo1"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "internaldemo_pack1": {
+      "directory": "internaldemo_pack1"
+    }
+  }
+}
