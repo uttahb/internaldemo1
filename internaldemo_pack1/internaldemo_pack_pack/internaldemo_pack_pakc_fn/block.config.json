@@ -3,8 +3,8 @@
   "name": "internaldemo_pack_pakc_fn",
   "type": "function",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/uttahb/internaldemo1.git",
+    "ssh": "git@github.com:uttahb/internaldemo1.git",
     "branch": "block_internaldemo_pack_pakc_fn"
   },
   "parentBlockIDs": [
